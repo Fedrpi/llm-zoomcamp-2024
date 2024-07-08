@@ -3,3 +3,4 @@ Repo with homework for course [llm-zoomcamp](https://github.com/DataTalksClub/ll
 
 ## Homeworks
 [1 week](/01_intro/homework.ipynb)
+[2 week](/02_open_source/homework.ipynb)
